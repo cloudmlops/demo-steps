@@ -1,3 +1,4 @@
 this is file created in local repo
 appending more lines in file.txt
 adding this line in github remote ( this is not preferred )
+appending more lines in file.txt
